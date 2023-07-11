@@ -6,6 +6,6 @@ Acording to [Wikipedia](https://en.wikipedia.org/wiki/Connect_Four), it is a two
 ## Domain Model
 * [Use case Diagram](/img/usecase.png)
 * [Vocabulary](/img/clases.png)
-* [Initial State]()
+* [Initial State](/img/initial.png)
 * [Final State]()
 * [Instructions]()
