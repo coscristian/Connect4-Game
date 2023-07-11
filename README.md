@@ -7,5 +7,5 @@ Acording to [Wikipedia](https://en.wikipedia.org/wiki/Connect_Four), it is a two
 * [Use case Diagram](/img/usecase.png)
 * [Vocabulary](/img/clases.png)
 * [Initial State](/img/initial.png)
-* [Final State]()
+* [Final State](/img/finalStateObject.png)
 * [Instructions]()
