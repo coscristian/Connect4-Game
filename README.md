@@ -5,7 +5,7 @@ Acording to [Wikipedia](https://en.wikipedia.org/wiki/Connect_Four), it is a two
 
 ## Domain Model
 * [Use case Diagram](/img/usecase.png)
-* Vocabulary
-* Initial State
-* Final State
-* Instructions
+* [Vocabulary](/img/clases.png)
+* [Initial State]()
+* [Final State]()
+* [Instructions]()
