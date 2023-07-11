@@ -8,4 +8,4 @@ Acording to [Wikipedia](https://en.wikipedia.org/wiki/Connect_Four), it is a two
 * [Vocabulary](/img/clases.png)
 * [Initial State](/img/initial.png)
 * [Final State](/img/finalStateObject.png)
-* [Instructions]()
+* [Instructions](/img/stateMachine.png)
