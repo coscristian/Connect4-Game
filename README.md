@@ -1,2 +1,11 @@
-# Connect4-Game
-Acording to Wikipedia, Connect 4 is a two-player connection rack game, in which the players choose a color and then take turns dropping colored tokens into a six-row, seven-column vertically suspended grid.
+# What is Connect 4
+Acording to [Wikipedia](https://en.wikipedia.org/wiki/Connect_Four), it is a two-player connection rack game, in which the players choose a color and then take turns dropping colored tokens into a six-row, seven-column vertically suspended grid.
+
+![Connect 4 image](/img/connect4.jpg)
+
+## Domain Model
+* [Use case Diagram](/img/usecase.png)
+* Vocabulary
+* Initial State
+* Final State
+* Instructions
